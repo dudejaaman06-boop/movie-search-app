@@ -1,0 +1,28 @@
+body {
+
+    text-align: center;
+
+    background-color:
+    lightblue;
+
+    font-family: Arial;
+}
+
+input {
+
+    padding: 8px;
+}
+
+button {
+
+    padding: 8px;
+
+    cursor: pointer;
+}
+
+img {
+
+    width: 200px;
+
+    margin-top: 10px;
+}
